@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0F643E0F2CAEB0B800EC5CEC /* App Store Submission Document.docx in Resources */ = {isa = PBXBuildFile; fileRef = 0F643E0E2CAEB0B700EC5CEC /* App Store Submission Document.docx */; };
 		C03A6A612B8E5331008E8380 /* Medication_ReminderApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = C03A6A602B8E5331008E8380 /* Medication_ReminderApp.swift */; };
 		C03A6A672B8E5332008E8380 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C03A6A662B8E5332008E8380 /* Assets.xcassets */; };
 		C03A6A6A2B8E5332008E8380 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C03A6A692B8E5332008E8380 /* Preview Assets.xcassets */; };
@@ -36,6 +37,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		0F643E0E2CAEB0B700EC5CEC /* App Store Submission Document.docx */ = {isa = PBXFileReference; lastKnownFileType = file; path = "App Store Submission Document.docx"; sourceTree = SOURCE_ROOT; };
 		C03A6A5D2B8E5331008E8380 /* Medication Reminder.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Medication Reminder.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		C03A6A602B8E5331008E8380 /* Medication_ReminderApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Medication_ReminderApp.swift; sourceTree = "<group>"; };
 		C03A6A662B8E5332008E8380 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
@@ -104,6 +106,7 @@
 				C070F7B02BD1839E00824B8C /* MedicationDashboard.swift */,
 				C0D1FDC62BC8E27600F5E6CE /* EditMedicationView.swift */,
 				C0D1FDBB2BC8A51100F5E6CE /* medication.swift */,
+				0F643E0E2CAEB0B700EC5CEC /* App Store Submission Document.docx */,
 				C03A6A662B8E5332008E8380 /* Assets.xcassets */,
 				C03A6A682B8E5332008E8380 /* Preview Content */,
 			);
@@ -240,6 +243,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				C03A6A6A2B8E5332008E8380 /* Preview Assets.xcassets in Resources */,
+				0F643E0F2CAEB0B800EC5CEC /* App Store Submission Document.docx in Resources */,
 				C03A6A672B8E5332008E8380 /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
